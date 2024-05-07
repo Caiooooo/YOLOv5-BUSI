@@ -28,7 +28,7 @@ After training, evaluate the model's performance and fine-tune as needed to achi
 
 ## Starting a Web Server
 
-If you have access to the internet, you can also start a web server using the provided code in `WebStarter`. This can be useful for various purposes such as hosting the pre-trained model for inference or serving visualizations of the BUSI images.
+If you have access to the internet, you can also start a web server using the provided code in `WebStarter.py`. This can be useful for various purposes such as hosting the pre-trained model for inference or serving visualizations of the BUSI images.
 
 ## Contribution
 
