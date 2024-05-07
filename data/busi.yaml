@@ -1,0 +1,9 @@
+---
+train: data/train.txt
+val: data/val.txt
+
+#numbers of class
+nc: 3
+
+#class name
+names: ["benign", "malignant", "normal"]

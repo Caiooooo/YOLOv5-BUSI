@@ -1,0 +1,10 @@
+YOLOv5 🚀 2024-3-10 Python-3.11.4 torch-2.0.1+cu117 CPU
+
+Fusing layers... 
+YOLOv5l summary: 307 layers, 46293520 parameters, 0 gradients
+Adding AutoShape... 
+Running on local URL:  http://0.0.0.0:8080
+IMPORTANT: You are using gradio version 4.21.0, however version 4.29.0 is available, please upgrade.
+--------
+
+To create a public link, set `share=True` in `launch()`.
